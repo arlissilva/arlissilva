@@ -1,10 +1,16 @@
-### Hello!!! I am Arlis
+### Olá!! Eu sou o Arlis
+
+#### Seja bem vindo ao meu perfil, aprecie com moderação e mantenha-se hidratado!🍻
+ - 💻 Atualmente estou estudando Golang e DevOps
+ - 💻 Trabalho com testes funcionais e de Segurança Lógica
+
+
+##
 
 <div>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=arlissilva&show_icons=true&theme=merko"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlissilva&layout=compact&theme=merko"/>
 </div>
-
 ##
 
 <div>
